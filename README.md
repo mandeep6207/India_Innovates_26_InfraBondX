@@ -254,7 +254,6 @@ InfraBondX Development Team
 Mandeep Kumar  
 B.Tech Data Science
 
-(Additional team members)
 
 ---
 
