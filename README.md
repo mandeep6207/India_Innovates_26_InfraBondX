@@ -228,7 +228,7 @@ It demonstrates how digital systems can improve transparency and citizen partici
 
 # Project Status
 
-Prototype / MVP
+Prototype
 
 Features demonstrated:
 
