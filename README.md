@@ -1,4 +1,4 @@
-ki# InfraBondX
+# InfraBondX
 ### Transparent Infrastructure Investment & Monitoring Platform
 
 InfraBondX is a civic-tech platform designed to bring **transparency, accountability, and citizen participation** into infrastructure funding.
