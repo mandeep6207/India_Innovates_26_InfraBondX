@@ -1,4 +1,4 @@
-# InfraBondX
+ki# InfraBondX
 ### Transparent Infrastructure Investment & Monitoring Platform
 
 InfraBondX is a civic-tech platform designed to bring **transparency, accountability, and citizen participation** into infrastructure funding.
@@ -249,10 +249,11 @@ This project is developed for educational and hackathon demonstration purposes.
 
 # Team
 
-InfraBondX Development Team
+InfraBondX
 
-Mandeep Kumar  
-B.Tech Data Science
+Mandeep Kumar
+B.Tech Data Science Student 
+Rungta College of Engineering and Technology Bhilai Chhattisgarh 
 
 
 ---
